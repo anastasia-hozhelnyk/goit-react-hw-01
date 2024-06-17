@@ -1,0 +1,25 @@
+td,
+th {
+  border: 2px solid black;
+  padding: 6px;
+}
+
+.transaction {
+  max-width: 600px;
+  width: 100%;
+  font-size: 16px;
+  margin-bottom: 40px;
+}
+
+.transaction-header {
+  background-color: black;
+}
+
+.transaction-header-title {
+  color: white;
+  padding: 10px 10px;
+}
+
+.transaction td {
+  text-align: center;
+}

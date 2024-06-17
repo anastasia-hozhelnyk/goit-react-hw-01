@@ -1,0 +1,7 @@
+.transaction-item:nth-child(even) {
+  background-color: lightgray;
+}
+
+.transaction-item-type {
+  text-transform: capitalize;
+}
